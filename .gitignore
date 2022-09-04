@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+resize
+
+#IDE Files
+*.json
+.cache/
+.vscode/
+.devcontainer/
