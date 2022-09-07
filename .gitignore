@@ -57,3 +57,11 @@ resize
 .cache/
 .vscode/
 .devcontainer/
+
+#Image formats
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
