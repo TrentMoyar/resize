@@ -1,0 +1,1 @@
+gcc -o resize -ljpeg -llcms2 -O2 resizeicc.c
